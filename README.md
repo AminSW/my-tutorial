@@ -1,9 +1,7 @@
-# Welcome to GitHub Desktop!
+# Welcome to My GitHub Profile!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
 # 💫 About Me:
+I am studying computer engineering (1st year). Software languages I've seen so far: Phyton(no FrameWork), Java(I'm learning)
 I'm currently working on Kartal UAV team for Teknofest
 
 
